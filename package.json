@@ -8,10 +8,8 @@
   },
   "author": "Robby Dore",
   "license": "ISC",
-  "dependencies": {
-    "express": "4.15.3"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "nodemon": "1.11.0"
+    "express": "4.15.3"
   }
 }
