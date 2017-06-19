@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
-const path = require('path');
+const loremIpsum = require('lorem-ipsum')
+var lorem = loremIpsum({count: 3});
 
 app.use(express.static('public'));
 
